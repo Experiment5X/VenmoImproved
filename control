@@ -1,0 +1,9 @@
+Package: com.expetelek.venmoimproved
+Name: VenmoImproved
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Defaultly make the payments viewable to participants only
+Maintainer: Adam Spindler
+Author: Adam Spindler
+Section: Tweaks
